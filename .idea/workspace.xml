@@ -5,6 +5,9 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="143cd69e-8637-451f-b49b-685b2a8ae4bf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
