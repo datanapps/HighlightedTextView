@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.app.customtextviewcomponent.HighLightTextView
+    <datanapps.highlightedtextview.HighLightTextView
         android:id="@+id/tv1"
         android:layout_marginTop="20dp"
         android:layout_width="wrap_content"
@@ -21,7 +21,7 @@
         app:highLightColor="@color/yellow"
         />
 
-    <com.app.customtextviewcomponent.HighLightTextView
+    <datanapps.highlightedtextview.HighLightTextView
         android:id="@+id/tv2"
         android:layout_below="@+id/tv1"
         android:layout_width="wrap_content"
@@ -36,7 +36,7 @@
         app:highLightColor="@color/blue"
         />
 
-    <com.app.customtextviewcomponent.HighLightTextView
+    <datanapps.highlightedtextview.HighLightTextView
         android:layout_below="@+id/tv2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

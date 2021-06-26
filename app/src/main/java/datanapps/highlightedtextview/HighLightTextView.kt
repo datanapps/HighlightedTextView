@@ -1,4 +1,4 @@
-package com.app.customtextviewcomponent
+package datanapps.highlightedtextview
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -9,7 +9,7 @@ import android.graphics.Rect
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatTextView
 import androidx.core.content.ContextCompat
-import datanapps.highlightedtextview.R
+
 
 
 @SuppressLint("CustomViewStyleable", "Recycle")
