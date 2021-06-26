@@ -28,5 +28,4 @@ Easy to handle highlighted code. Please follow custom textview.
         />
 ```
         
-
-
+Hope it will help. Thanks
