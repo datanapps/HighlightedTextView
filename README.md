@@ -26,7 +26,7 @@ Easy to handle highlighted code. Please follow custom textview.
         android:textAlignment="viewEnd"
         app:highLightColor="@color/blue"
         />
-     </addr>   
+
         
 
 
