@@ -11,7 +11,7 @@ Easy to handle highlighted code. Please follow custom textview.
 ## Use HighLightTextView as custom textview in your project 
 
 
-<addr>
+```
 <datanapps.highlightedtextview.HighLightTextView
         android:id="@+id/tv2"
         android:layout_below="@+id/tv1"
@@ -26,7 +26,7 @@ Easy to handle highlighted code. Please follow custom textview.
         android:textAlignment="viewEnd"
         app:highLightColor="@color/blue"
         />
-
+```
         
 
 
