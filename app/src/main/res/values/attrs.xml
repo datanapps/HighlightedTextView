@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="QuoteTextView">
+    <declare-styleable name="HighLightTextView">
         <attr name="highLightColor" format="color"/>
     </declare-styleable>
 

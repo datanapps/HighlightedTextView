@@ -13,7 +13,7 @@ import datanapps.highlightedtextview.R
 
 
 @SuppressLint("CustomViewStyleable", "Recycle")
-class QuoteTextView constructor(
+class HighLightTextView constructor(
     context: Context,
     readArrayAttributes: AttributeSet?,
     defStyleAttr: Int
@@ -34,13 +34,13 @@ class QuoteTextView constructor(
         readArrayAttributes?.let {
             val attrs = context.obtainStyledAttributes(
                 readArrayAttributes,
-                R.styleable.QuoteTextView
+                R.styleable.HighLightTextView
             )
 
             highLightColor =
                 attrs.getColor(
 
-                    R.styleable.QuoteTextView_highLightColor,
+                    R.styleable.HighLightTextView_highLightColor,
                     Color.TRANSPARENT
                 )
         }
